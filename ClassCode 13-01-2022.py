@@ -17,7 +17,7 @@ print('----------------------------------------------')
 # create a if statement using the (or) (and) operator
 x = 10
 y = 5
-if x < y or y!=x and y > 0:
+if x < y or y != x and y > 0:
     print("This is True")
 
 print('----------------------------------------------')
